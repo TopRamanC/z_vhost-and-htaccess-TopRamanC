@@ -1,3 +1,4 @@
+AllowOverride All
 AuthType Basic
 AuthName "Restricted index.html file"
 AuthUserFile "/etc/apache2/.htpasswd"

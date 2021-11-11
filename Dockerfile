@@ -9,8 +9,8 @@ RUN apt-get install curl
 RUN a2enmod userdir
 RUN useradd raman
 
-COPY public_html/ /home/raman
-COPY .htpasswd /etc/apache2
+COPY public_html/Dev /home/raman/public_html/Dev
+COPY .htpasswd /home/raman/public_html/Dev
 COPY site1.conf /etc/apache2/sites-available
 COPY site2.conf /etc/apache2/sites-available
 COPY site3.conf /etc/apache2/sites-available

@@ -1,4 +1,11 @@
 # additional_apache_configs
+# Please run the following command to test this lab:
+docker run -dit --add-host="site1.internal site2.internal site3.internal:127.0.0.2" -p 80:80 <image_name>
+
+# Please enter the following username and password to view the index.html file:
+Username: raman
+Password: ramanisthebest
+
 ## What is .htaccess? 
 - It is a configuration file used by apache-based web servers.  
 

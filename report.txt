@@ -1,0 +1,15 @@
+	```
+    Name: Ramanpreet Chadha
+    Lab Name: z_vhost-and-htaccess
+    Date Assigned: Nov 3, 2021
+    Date Completed: Nov 11, 2021
+    Status:  Completed <!-- select one -->
+    Outstanding Issues:
+    Ran into issues with adding multiple hosts in the apache config files.	<!-- insert description -->
+    
+    Major Impediments:
+    More .htaccess would have helped.	<!-- insert description -->
+
+    Feedback Comments:
+    Great lab and taught me a lot about apache configurations and .htaccess    <!-- insert description --> 
+    ```
